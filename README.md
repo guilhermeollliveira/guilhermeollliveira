@@ -19,7 +19,6 @@
 ### 
 
 <p align="center">
-  <b>🌍 Sou de Jaboticabal - SP, Brasil<br>
   👨‍🎓 Estudante de Desenvolvimento de Sistemas<br>
   🎯 Interesse em Desenvolvimento Full-Stack<br>
   🎯 Foco em HTML, CSS e JavaScript.<br>
@@ -28,19 +27,6 @@
 
 ### 
 
-<h3 align="center">Ferramentas e Habilidades</h3>
-
-### 
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo" />
-</div>
-
-### 
 
 <h3 align="center">Visão Geral</h3>
 
