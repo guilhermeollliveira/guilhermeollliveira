@@ -20,8 +20,8 @@
 
 <p align="center">
   Estudante de Desenvolvimento de Sistemas<br>
-  Desenvolvimento Full-Stack<br>
   Foco em TypeScript, React e C++.<br>
+  Desenvolvimento Full-Stack<br>
   </b>
 </p>
 
