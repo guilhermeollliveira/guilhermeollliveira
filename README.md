@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="mailto:guilhermeoliveira.albq@gmail.com" target="_blank">
+  <a href="mailto:guilhermealbuquerque.webdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0077b5&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo" />
   </a>
 </div>
